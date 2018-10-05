@@ -1,0 +1,32 @@
+/* This is a template and used to store maps. */
+
+/* Every map should follow this style. */
+/* Comments need to be of this style */
+
+/* Finish line  */
+<Location of the line center>,<Direction of line>,<length of left hand>,<lenght of right hand>
+
+/* Cars */
+<Car 1 starting location>,<Car 1 start direction>
+<Car 2 starting location>,<Car 2 start direction>
+<Car 3 starting location>,<Car 3 start direction>
+					.
+					.
+					.
+<Car N starting location>,<Car N start direction>
+
+/* Track graphics */
+< out-of-bounds-area.png >,< physx modifiers >
+< track-sideline.png >,< physx modifiers >
+< track-road.png >,< physx modifiers >
+
+/* Track map */
+< 1st X coordinate >,< 1st Y coordinate >
+< 2nd X coordinate >,< 2nd Y coordinate >
+< 3rd X coordinate >,< 3rd Y coordinate >
+				.
+				.
+				.
+< N:th X coordinate >,< N:th Y coordinate >
+
+
